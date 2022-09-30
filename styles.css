@@ -378,4 +378,9 @@ footer .address {
         padding: 5px;
         margin: 5px 5px;
     }
+    .food-item:hover {
+        transform: scaleX(102%) scaleY(102%);
+        transition: 150ms;
+        box-shadow: 5px 5px rgba(17, 17, 17, 0.379);
+}
 }
