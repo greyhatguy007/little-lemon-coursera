@@ -370,3 +370,12 @@ footer .address {
         width: 100vw;
     }
 }
+
+@media screen and (max-width: 475px) {
+    .food-item {
+        width: 90vw;
+        height: 300px;
+        padding: 5px;
+        margin: 5px 5px;
+    }
+}
